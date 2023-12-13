@@ -1,0 +1,12 @@
+{
+  "placements": [
+    {
+      "id": 1,
+      "name": "Company A",
+      "driveDate": "2023-12-15",
+      "description": "Placement drive details for Company A.",
+      "stream": "Engineering",
+      "minimumPercentile": 80
+    }
+  ]
+}
